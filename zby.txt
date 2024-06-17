@@ -476,31 +476,49 @@ IPV6卫视,#genre#
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 电影,#genre#
-粤语版电影1,https://epg.112114.xyz/douyu/5033502
-粤语版电影2,https://epg.112114.xyz/douyu/6566671
-粤语版电影3,https://epg.112114.xyz/douyu/1226741
-港片1,http://epg.112114.xyz/douyu/4290711
-港片2,http://epg.112114.xyz/douyu/338759
-港片电视剧1,http://epg.112114.xyz/douyu/5522351
-港电影院,http://epg.112114.xyz/douyu/9826611
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
-粤语综艺,http://epg.112114.xyz/douyu/7919720
-刘德华电影1,http://epg.112114.xyz/douyu/2516864
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
-刘德华电影3,http://epg.112114.xyz/douyu/2516864
-林正英电影1,http://epg.112114.xyz/douyu/218859
-林正英电影2,http://epg.112114.xyz/douyu/7356023
-清晰林正英,http://epg.112114.xyz/douyu/7356023
-经典武侠,http://epg.112114.xyz/douyu/7655471
-邵氏影院,http://epg.112114.xyz/douyu/4246519
-
-
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-华语电影,http://epg.112114.xyz/douyu/3928
-华语经典,http://epg.112114.xyz/douyu/434971
-喜剧电影,http://epg.112114.xyz/douyu/9292492
-神剧剧场,http://epg.112114.xyz/douyu/3700024
-老版三国演义,http://epg.112114.xyz/douyu/7459925
-吟笑扒片,http://epg.112114.xyz/douyu/2987100
-橙子影视,http://epg.112114.xyz/douyu/4549169
-华语动作电影,http://epg.112114.xyz/douyu/1504768
+高分港片电影,https://live.metshop.top/yy/28099939
+香港动作大片,https://live.metshop.top/yy/1382736816
+【成龙经典】动作,https://live.metshop.top/yy/34460526
+成龙系列,https://live.metshop.top/yy/1354888751
+星爷经典-百看不厌,https://live.metshop.top/yy/1382736808
+致敬星爷致敬经典,https://live.metshop.top/yy/1354889048
+(周星驰)超经典搞笑电影,https://live.metshop.top/yy/29945997
+【周星驰】星爷 喜剧,https://live.metshop.top/yy/21092633
+电影 古惑仔全集,https://live.metshop.top/yy/1354507447
+古惑仔全集,https://live.metshop.top/yy/1460889796
+经典港片 3000部,https://live.metshop.top/yy/1353059120
+经典港片电影,https://live.metshop.top/yy/1382793140
+【经典港片】佟瑶,https://live.metshop.top/yy/23531261
+港剧悬疑破案,https://live.metshop.top/yy/10425097
+破案港剧,https://live.metshop.top/yy/1350670730
+【赌神片 动作片 港片】,https://live.metshop.top/yy/1355112116
+张国荣与周润发的兄弟情,https://live.metshop.top/yy/1354930961
+【港片】赌片 动作,https://live.metshop.top/yy/24921161
+林正英 僵尸 鬼片,https://live.metshop.top/yy/1351505899
+林正英-经典电影,https://live.metshop.top/yy/34229877
+鬼片赌片经典电影,https://live.metshop.top/yy/1351496216
+英叔僵尸 3000部,https://live.metshop.top/yy/1353685311
+经典鬼片3000部,https://live.metshop.top/yy/29460894
+姜喜宝绝版鬼片 正在直播,https://live.metshop.top/yy/1355171231
+钟馗传说,https://live.metshop.top/yy/1382736839
+我和僵尸有个约会,https://live.metshop.top/yy/1354143966
+超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
+【林正英】僵尸 鬼片,https://live.metshop.top/yy/30668277
+鬼片.惊悚.港片,https://live.metshop.top/yy/1355497884
+妖魔鬼怪 超好看,https://live.metshop.top/yy/1459714870
+林正英 经典鬼片,https://live.metshop.top/yy/1353312849
+怀旧好电影,https://live.metshop.top/yy/1382627144
+国产大片电影,https://live.metshop.top/yy/1354926655
+皮蛋影视 正在直播,https://live.metshop.top/yy/23055599
+热血抗日电影,https://live.metshop.top/yy/1382749907
+夏洛特烦恼-国内电影-喜剧,https://live.metshop.top/yy/1354936201
+国内战争大片合集,https://live.metshop.top/yy/1382749950
+精彩动作电影享不停,https://live.metshop.top/yy/1382736809
+国内战争电影,https://live.metshop.top/yy/1382736865
+国内动作大片,https://live.metshop.top/yy/1382749917
+经典搞笑影片,https://live.metshop.top/yy/1382749878
+妹子高分搞笑电影,https://live.metshop.top/yy/33478222
+丛林敢死队-国内电影,https://live.metshop.top/yy/1354936214
+国内动作片,https://live.metshop.top/yy/1382735561
+战争大片,https://live.metshop.top/yy/1382736798
+国产电影,https://live.metshop.top/yy/1354936157
