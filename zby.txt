@@ -71,6 +71,15 @@ CCTV8电视剧,http://222.175.159.226:808/hls/20239/index.m3u8
 CCTV8电视剧,http://223.95.111.98:5555/newlive/live/hls/8/live.m3u8
 CCTV8电视剧,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
 CCTV9记录,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV9,https://stream1.freetv.fun/cctv9-54.ctv
+CCTV9,https://stream1.freetv.fun/cctv9-13.ctv
+CCTV9,https://stream1.freetv.fun/cctv9-49.m3u8
+CCTV99,https://stream1.freetv.fun/cctv9-9.m3u8
+CCTV9-9,https://stream1.freetv.fun/cctv-9-3.ctv
+CCTV9-纪录,https://stream1.freetv.fun/cctv9-ji-lu-4.m3u8
+CCTV9,https://stream1.freetv.fun/cctv-9-21.m3u8
+CCTV9,https://stream1.freetv.fun/cctv-9-6.m3u8
+CCTV9,https://stream1.freetv.fun/cctv-9-7.m3u8
 CCTV10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10科教,http://111.20.35.103:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=00
